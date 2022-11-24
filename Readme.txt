@@ -1,1 +1,0 @@
-python3 a2.py sample-capture-file.cap
